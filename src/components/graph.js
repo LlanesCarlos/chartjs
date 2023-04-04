@@ -1,9 +1,9 @@
 import React from 'react';
-import Graph from './components/chart';
+import Graph from './Graph';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Graph />
     </div>
   );
